@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="789fedde-d415-42e4-b1dc-6d156695aa76" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.babelrc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env-config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/next.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.babelrc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/.idea.blog-dimenssion.dir/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/.idea.blog-dimenssion.dir/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/.idea.blog-dimenssion.dir/.idea/indexLayout.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/.idea.blog-dimenssion.dir/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/.idea.blog-dimenssion.dir/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/.idea.blog-dimenssion.dir/riderModule.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/.idea.boombuy-dimension.dir/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/.idea.boombuy-dimension.dir/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/.idea.boombuy-dimension.dir/.idea/indexLayout.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/.idea.boombuy-dimension.dir/.idea/jsLibraryMappings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/.idea.boombuy-dimension.dir/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/.idea.boombuy-dimension.dir/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/.idea.boombuy-dimension.dir/riderModule.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../components/Auth.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../components/Footer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../components/Header.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../components/Main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../components/Navbar.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../components/Post.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../components/SlideShow.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../components/post/groups.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/build-manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/commons.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/dist/styles/main.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/pages-manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/react-loadable-manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/ssr-module-cache.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/static/Mt9wYBL5JX7I6hUOA4Z38/pages/_app.js.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/static/Mt9wYBL5JX7I6hUOA4Z38/pages/_document.js.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/static/Mt9wYBL5JX7I6hUOA4Z38/pages/_error.js.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/static/Mt9wYBL5JX7I6hUOA4Z38/pages/index.js.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/static/Ov1gcMaWDtZkp62NksXmU/pages/_app.js.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/static/Ov1gcMaWDtZkp62NksXmU/pages/_document.js.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/static/Ov1gcMaWDtZkp62NksXmU/pages/_error.js.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/static/Ov1gcMaWDtZkp62NksXmU/pages/index.js.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/static/ZzGSMMT_S~TwfIDPsXy~N/pages/_app.js.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/static/ZzGSMMT_S~TwfIDPsXy~N/pages/_document.js.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/static/ZzGSMMT_S~TwfIDPsXy~N/pages/_error.js.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/static/ZzGSMMT_S~TwfIDPsXy~N/pages/index.js.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/static/runtime/main.js.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/static/runtime/webpack.js.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../env-config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gigya/authorizationView.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gigya/context.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gigya/gigyaProvider.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gigya/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gigya/screens.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gigya/useGigyaAuth.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gigya/useScreenset.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../next.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pages/blog.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pages/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pages/post/groups.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../postcss.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/css/ie9.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/css/noscript.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/images/bg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/images/overlay.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/images/pic01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/images/pic02.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/images/pic03.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/video/groups.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../styles/base/_page.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../styles/base/_typography.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../styles/components/_box.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../styles/components/_button.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../styles/components/_form.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../styles/components/_icon.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../styles/components/_image.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../styles/components/_list.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../styles/components/_table.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../styles/components/_video.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../styles/ie9.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../styles/layout/_bg.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../styles/layout/_footer.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../styles/layout/_header.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../styles/layout/_main.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../styles/layout/_wrapper.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../styles/libs/_functions.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../styles/libs/_mixins.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../styles/libs/_skel.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../styles/libs/_vars.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../styles/main.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../styles/noscript.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../styles/static/css/ie9.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../styles/static/css/noscript.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../styles/static/images/bg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../styles/static/images/overlay.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../styles/static/images/pic01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../styles/static/images/pic02.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../styles/static/images/pic03.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yarn-error.log" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/.babelrc.js" />
+        <option value="$PROJECT_DIR$/next.config" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/env-config.js" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1sgSnbGFC01Hz3RhmdkfXG8wwcF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="789fedde-d415-42e4-b1dc-6d156695aa76" name="Default Changelist" comment="" />
+      <created>1621292909000</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1621292909000</updated>
+      <workItem from="1621292911660" duration="311000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\I347305\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\I347305\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_.19.03" t="ExcludeRecursive" />
+    <e p="C:\Users\I347305\AppData\Roaming\JetBrains\Rider2020.2\scratches" t="IncludeRecursive" />
+    <e p="D:\dina\demo\next-app" t="IncludeFlat">
+      <e p="node_modules\@babel\types" t="IncludeRecursive" />
+      <e p="node_modules\@hapi\accept" t="IncludeRecursive" />
+      <e p="node_modules\@hapi\boom" t="IncludeRecursive" />
+      <e p="node_modules\@hapi\hoek" t="IncludeRecursive" />
+      <e p="node_modules\@next\env" t="IncludeRecursive" />
+      <e p="node_modules\@opentelemetry\api" t="IncludeRecursive" />
+      <e p="node_modules\@opentelemetry\context-base" t="IncludeRecursive" />
+      <e p="node_modules\@types" t="IncludeRecursive" />
+      <e p="node_modules\ansi-regex" t="IncludeRecursive" />
+      <e p="node_modules\ast-types" t="IncludeRecursive" />
+      <e p="node_modules\base64-js" t="IncludeRecursive" />
+      <e p="node_modules\browserslist" t="IncludeRecursive" />
+      <e p="node_modules\buffer" t="IncludeRecursive" />
+      <e p="node_modules\chalk" t="IncludeRecursive" />
+      <e p="node_modules\colorette" t="IncludeRecursive" />
+      <e p="node_modules\escalade" t="IncludeRecursive" />
+      <e p="node_modules\find-up" t="IncludeRecursive" />
+      <e p="node_modules\get-orientation" t="IncludeRecursive" />
+      <e p="node_modules\iconv-lite" t="IncludeRecursive" />
+      <e p="node_modules\ieee754" t="IncludeRecursive" />
+      <e p="node_modules\jest-worker" t="IncludeRecursive" />
+      <e p="node_modules\locate-path" t="IncludeRecursive" />
+      <e p="node_modules\nanoid" t="IncludeRecursive" />
+      <e p="node_modules\native-url" t="IncludeRecursive" />
+      <e p="node_modules\next" t="IncludeRecursive" />
+      <e p="node_modules\node-html-parser" t="IncludeRecursive" />
+      <e p="node_modules\p-limit" t="IncludeRecursive" />
+      <e p="node_modules\p-locate" t="IncludeRecursive" />
+      <e p="node_modules\path-exists" t="IncludeRecursive" />
+      <e p="node_modules\postcss" t="IncludeRecursive" />
+      <e p="node_modules\querystring" t="IncludeRecursive" />
+      <e p="node_modules\raw-body" t="IncludeRecursive" />
+      <e p="node_modules\react" t="IncludeRecursive" />
+      <e p="node_modules\react-dom" t="IncludeRecursive" />
+      <e p="node_modules\safe-buffer" t="IncludeRecursive" />
+      <e p="node_modules\strip-ansi" t="IncludeRecursive" />
+      <e p="node_modules\yocto-queue" t="IncludeRecursive" />
+    </e>
+  </component>
+</project>
